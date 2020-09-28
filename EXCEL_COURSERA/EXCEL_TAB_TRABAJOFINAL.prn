@@ -1,0 +1,109 @@
+MES           PRODUCTO          CLIENTE            VENDEDOR_CODIGO    COSTO       PRECIO      CANTIDAD    COSTO TOTAL   VENTA TOTAL   GANANCIA  MARGEN
+AGOSTO        BEBIDA            MIGUELO JUANETE                      1 $           $                     1 $             $             $             44%
+AGOSTO        BEBIDA            PEDRO PICAPIEDRA                     1 $           $                     8 $             $             $             44%
+AGOSTO        BEBIDA            PEDRO PICAPIEDRA                     1 $           $                     5 $             $             $             44%
+AGOSTO        BEBIDA            PEDRO PICAPIEDRA                     1 $           $                     7 $             $             $             44%
+AGOSTO        BEBIDA            PEDRO PICAPIEDRA                     1 $           $                     3 $             $             $             44%
+AGOSTO        BEBIDA            MIGUELO JUANETE                      1 $           $                     4 $             $             $             44%
+AGOSTO        BEBIDA            MIGUELO JUANETE                      1 $           $                     5 $             $             $             44%
+AGOSTO        CARNE             MIGUELO JUANETE                      2 $           $                     3 $             $             $      12     44%
+AGOSTO        CARNE             MIGUELO JUANETE                      2 $           $                     4 $             $             $      16     44%
+AGOSTO        CARNE             MIGUELO JUANETE                      2 $           $                     1 $             $             $             44%
+AGOSTO        VERDURAS          ALBERTO MALAGANA                     3 $           $                     4 $             $             $             44%
+AGOSTO        VERDURAS          ALBERTO MALAGANA                     3 $           $                     4 $             $             $             44%
+AGOSTO        VERDURAS          ALBERTO MALAGANA                     3 $           $                    10 $             $             $             44%
+AGOSTO        VERDURAS          ALBERTO MALAGANA                     3 $           $                     5 $             $             $             44%
+AGOSTO        VERDURAS          ALEJANDRO ORTIZ                      3 $           $                    10 $             $             $             44%
+AGOSTO        VERDURAS          ALEJANDRO ORTIZ                      3 $           $                     3 $             $             $             44%
+AGOSTO        VERDURAS          ALEJANDRO ORTIZ                      3 $           $                     7 $             $             $             44%
+AGOSTO        VERDURAS          ALEJANDRO ORTIZ                      3 $           $                     9 $             $             $             44%
+JULIO         BEBIDA            ALBERTO MALAGANA                     1 $           $                     8 $             $             $             44%
+JULIO         BEBIDA            ALBERTO MALAGANA                     1 $           $                     8 $             $             $             44%
+JULIO         BEBIDA            ANDRA KOURNIKOVA                     1 $           $                     1 $             $             $             44%
+JULIO         BEBIDA            ANDRA KOURNIKOVA                     1 $           $                     9 $             $             $             44%
+JULIO         CARNE             ANDRA KOURNIKOVA                     2 $           $                     5 $             $             $      20     44%
+JULIO         CARNE             MIGUELO JUANETE                      2 $           $                     8 $             $             $      32     44%
+JULIO         CARNE             ANDRA KOURNIKOVA                     2 $           $                     4 $             $             $      16     44%
+JULIO         CARNE             ALEJANDRO ORTIZ                      2 $           $                    10 $             $             $      40     44%
+JULIO         CARNE             ANDRA KOURNIKOVA                     2 $           $                     5 $             $             $      20     44%
+JULIO         CARNE             ALBERTO MALAGANA                     2 $           $                     4 $             $             $      16     44%
+JULIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     2 $             $             $             44%
+JULIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     7 $             $             $      28     44%
+JULIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     7 $             $             $      28     44%
+JULIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     2 $             $             $             44%
+JULIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     3 $             $             $      12     44%
+JULIO         VERDURAS          ALBERTO MALAGANA                     3 $           $                     8 $             $             $             44%
+JULIO         VERDURAS          ALBERTO MALAGANA                     3 $           $                    11 $             $             $             44%
+JULIO         VERDURAS          ALBERTO MALAGANA                     3 $           $                     8 $             $             $             44%
+JUNIO         BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     4 $             $             $             44%
+JUNIO         BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     6 $             $             $             44%
+JUNIO         BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     6 $             $             $             44%
+JUNIO         BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     8 $             $             $             44%
+JUNIO         BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     5 $             $             $             44%
+JUNIO         BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     5 $             $             $             44%
+JUNIO         CARNE             ALEJANDRO ORTIZ                      2 $           $                     2 $             $             $             44%
+JUNIO         CARNE             ALEJANDRO ORTIZ                      2 $           $                     1 $             $             $             44%
+JUNIO         CARNE             ALEJANDRO ORTIZ                      2 $           $                    10 $             $             $      40     44%
+JUNIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     5 $             $             $      20     44%
+JUNIO         CARNE             PEDRO PICAPIEDRA                     2 $           $                     7 $             $             $      28     44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    11 $             $             $             44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    10 $             $             $             44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    10 $             $             $             44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    10 $             $             $             44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     6 $             $             $             44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    10 $             $             $             44%
+JUNIO         VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     2 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     2 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     8 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     7 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     7 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     5 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     6 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                    10 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     1 $             $             $             44%
+MAYO          BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     8 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     5 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     5 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     3 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                    11 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     5 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     6 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     2 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     3 $             $             $             44%
+MAYO          VERDURAS          ANDRA KOURNIKOVA                     3 $           $                     4 $             $             $             44%
+OCTUBRE       CARNE             PEDRO PICAPIEDRA                     2 $           $                     3 $             $             $      12     44%
+OCTUBRE       CARNE             PEDRO PICAPIEDRA                     2 $           $                     5 $             $             $      20     44%
+OCTUBRE       CARNE             PEDRO PICAPIEDRA                     2 $           $                     8 $             $             $      32     44%
+OCTUBRE       CARNE             PEDRO PICAPIEDRA                     2 $           $                     9 $             $             $      36     44%
+OCTUBRE       CARNE             PEDRO PICAPIEDRA                     2 $           $                    10 $             $             $      40     44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     8 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     2 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     1 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     9 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    11 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     6 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     3 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    10 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                    11 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     2 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     9 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     3 $             $             $             44%
+OCTUBRE       VERDURAS          PEDRO PICAPIEDRA                     3 $           $                     2 $             $             $             44%
+SEPTIEMBRE    BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     1 $             $             $             44%
+SEPTIEMBRE    BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     2 $             $             $             44%
+SEPTIEMBRE    BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     8 $             $             $             44%
+SEPTIEMBRE    BEBIDA            ALEJANDRO ORTIZ                      1 $           $                    10 $             $             $             44%
+SEPTIEMBRE    BEBIDA            ALEJANDRO ORTIZ                      1 $           $                     9 $             $             $             44%
+SEPTIEMBRE    BEBIDA            ALEJANDRO ORTIZ                      1 $           $                    11 $             $             $             44%
+SEPTIEMBRE    CARNE             ALEJANDRO ORTIZ                      2 $           $                    10 $             $             $      40     44%
+SEPTIEMBRE    CARNE             ALEJANDRO ORTIZ                      2 $           $                     9 $             $             $      36     44%
+SEPTIEMBRE    CARNE             ALEJANDRO ORTIZ                      2 $           $                     4 $             $             $      16     44%
+SEPTIEMBRE    CARNE             MIGUELO JUANETE                      2 $           $                     8 $             $             $      32     44%
+SEPTIEMBRE    CARNE             ALBERTO MALAGANA                     2 $           $                    10 $             $             $      40     44%
+SEPTIEMBRE    CARNE             ALBERTO MALAGANA                     2 $           $                     1 $             $             $             44%
+SEPTIEMBRE    VERDURAS          MIGUELO JUANETE                      3 $           $                    10 $             $             $             44%
+SEPTIEMBRE    VERDURAS          MIGUELO JUANETE                      3 $           $                     9 $             $             $             44%
+SEPTIEMBRE    VERDURAS          MIGUELO JUANETE                      3 $           $                     9 $             $             $             44%
+SEPTIEMBRE    VERDURAS          ALBERTO MALAGANA                     3 $           $                     9 $             $             $             44%
+SEPTIEMBRE    VERDURAS          ALBERTO MALAGANA                     3 $           $                     7 $             $             $             44%
+SEPTIEMBRE    VERDURAS          ALBERTO MALAGANA                     3 $           $                     3 $             $             $             44%
